@@ -1,3 +1,6 @@
+# Running application
+  https://laravel.karlsminde1.dk/
+  
 # Løsning på Basic Screening Test.
     Udført af Finn Skjoldager 2022-12-09 kl 8-17
 
